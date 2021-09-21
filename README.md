@@ -1,1 +1,1 @@
-# advanced-cognitive-neuroscience
+# Study Group Repository for Advanced Cognitive Neuroscience
